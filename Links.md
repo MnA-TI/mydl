@@ -2,6 +2,20 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 18:39 IR
+- 🗜️ [AdsPower-Global-8.4.3-x64.exe.zip](https://github.com/MnA-TI/mydl/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.zip) `36.5MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.exe.z01](https://github.com/MnA-TI/mydl/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.z01) `95.0MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.exe.z02](https://github.com/MnA-TI/mydl/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.z02) `95.0MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.exe.z03](https://github.com/MnA-TI/mydl/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.z03) `95.0MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.exe.zip](https://github.com/MnA-TI/mydl/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.zip) `36.5MB`
+
+---
+
+
 ### 📅 2026-05-08 17:56 IR
 - 🗜️ [camoufox-135.0.1-beta.24-win.x86_64.zip.zip](https://github.com/MnA-TI/mydl/raw/main/dl/camoufox-135.0.1-beta.24-win.x86_64.zip.zip) `30.8MB`
 
